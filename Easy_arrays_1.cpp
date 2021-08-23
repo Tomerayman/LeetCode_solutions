@@ -1,4 +1,4 @@
-class Solution {
+class Easy_arrays_Solution {
 public:
 
     // ex. 1 - Remove Duplicates from Sorted Array
